@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+You can view it on: [https://react-beach-resort-recording-simple.netlify.com/](https://react-beach-resort-recording-simple.netlify.com/)
 ## Available Scripts
 
 In the project directory, you can run:
